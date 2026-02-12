@@ -1,0 +1,20 @@
+body {
+    background-color: cadetblue;
+}
+#Card {
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+    border-radius: 50px;
+    margin: 40px auto;
+    padding: 30px;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+i {
+   font-size: 50px;
+}
